@@ -4,7 +4,7 @@ Hi 👋 My name is Jyle Ulrikh
 College Student
 ---------------
 
-I am currently a first-year Bachelor of Science in Information Technology student at Rizal Technological University. I graduated senior high school with a strand in computer systems servicing.
+I am currently a second-year Bachelor of Science in Information Technology student at Rizal Technological University. I graduated senior high school with a strand in computer systems servicing.
 
 * 🌍  I'm based in Metro Manila, Philippines
 * ✉️  You can contact me at [jyleflores07@gmail.com](mailto:jyleflores07@gmail.com)
