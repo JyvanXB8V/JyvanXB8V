@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a second-year Bachelor of Science in Information Technology student at Rizal Technological University. I graduated senior high school with a strand in computer systems servicing.<br><br>🌍  I'm based in Metro Manila, Philippines<br>✉️  You can contact me at jyleflores07@gmail.com<br>🧠  I'm learning Machine Learning<br>🤝  I'm open to collaborating on projects related to my course
+I am currently a third-year Bachelor of Science in Information Technology student at Rizal Technological University. I graduated senior high school with a strand in computer systems servicing.<br><br>🌍  I'm based in Metro Manila, Philippines<br>✉️  You can contact me at jyleflores07@gmail.com<br>🧠  I'm learning Machine Learning<br>🤝  I'm open to collaborating on projects related to my course
 
 
 # 💻 Tech Stack:
